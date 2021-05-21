@@ -21,17 +21,17 @@ darkmode: true
 # Social links
 twitter_username: leosaraiv4
 github_username:  leosaraiva
-stackoverflow_username: "00000001"
+stackoverflow_username: 
 dribbble_username: 
 facebook_username: 
 flickr_username: 
 instagram_username: leosaraiv4
 linkedin_username: leosaraiv4
-xing_username: jekyll
+xing_username: 
 pinterest_username: 
 youtube_username: 
 googleplus_username: 
-orcid_username: 0000-0000-0000-0000
+orcid_username: 
 
 # Additional icon links
 additional_links:
@@ -95,13 +95,22 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Universidade Federal da Paraíba (UFPB)
+        sub_title: M.Sc in Computing, Communication and Arts
+        caption: (2019 - 2021)
         quote: >
-          Short institution or course description (optional)
+          
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Recieved a Master's Degree title
+    content:
+      - layout: top-right
+        title: Universidade Federal de Campina Grande (UFCG)
+        sub_title: B.Sc in Arts and Media
+        caption: (1999 - 2003)
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          Recieved a Bacherlor's Degree title
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs

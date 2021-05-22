@@ -70,6 +70,7 @@
           title: K9 Organizer
           link: github.com/leosaraiva/organizarCachorro
           link_text: Github
+          icon: fab fa-github
         #  additional_links:
         #    - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #      icon: fab fa-github
@@ -85,6 +86,7 @@
           title: Parking Queue
           link: github.com/leosaraiva/filaEstacionamento
           link_text: Github
+          icon: fab fa-github
           description: | # this will include new lines to allow paragraphs
             A <mark>Python</mark> project to organize a queue in a parking lot.
     - title: Experience

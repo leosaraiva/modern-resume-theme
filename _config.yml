@@ -118,7 +118,7 @@
           quote: >
 
           description: | # this will include new lines to allow paragraphs
-          I've obtained a Master's Degree in Computing, Communication and Arts.
+            I've obtained a Master's Degree in Computing, Communication and Arts.
 
         - layout: top-left  
           title: Universidade Federal de Campina Grande (UFCG)
@@ -127,7 +127,7 @@
           quote: >
             
           description: | # this will include new lines to allow paragraphs
-          I've obtained a Bachelor's Degree in Arts and Media.
+            I've obtained a Bachelor's Degree in Arts and Media.
           
     #- title: A Little More About Me
     #  layout: text

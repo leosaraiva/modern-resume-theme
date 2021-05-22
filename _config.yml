@@ -67,20 +67,26 @@
       layout: list # Type of content section (list/text)
       content:
         - layout: left
-          title: Project name
-          link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          link_text: Link Text
-          additional_links:
-            - title:  Github page for project (eg. sproogen/modern-resume-theme)
-              icon: fab fa-github
-              url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-            - title:  Github page for project (eg. sproogen/modern-resume-theme)
-              icon: fab fa-github
-              url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          quote: >
-            Short overview of the project (optional)
+          title: K9 Organizer
+          link: github.com/leosaraiva/organizarCachorro
+          link_text: Github
+        #  additional_links:
+        #    - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #      icon: fab fa-github
+        #      url: github.com/leosaraiva/organizarCachorro
+        #    - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #      icon: fab fa-github
+        #      url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #  quote: >
+            
           description: | # this will include new lines to allow paragraphs
-            Description about the work on/with the project
+            A <mark>Java</mark> project to include, list, play, exclude and mate dogs in a kennel club.
+        - layout: left
+          title: Parking Queue
+          link: github.com/leosaraiva/filaEstacionamento
+          link_text: Github
+          description: | # this will include new lines to allow paragraphs
+            A <mark>Python</mark> project to organize a queue in a parking lot.
     - title: Experience
       layout: list
       content:
@@ -97,7 +103,7 @@
           title: Sin Group 
           sub_title: RTVC
           caption: 2012 - 2015
-          link: https://singroup.com.br/
+          link: singroup.com.br
           quote: >
             
           description: | # this will include new lines to allow paragraphs
@@ -112,6 +118,7 @@
           quote: >
 
           description: | # this will include new lines to allow paragraphs
+          I've obtained a Master's Degree in Computing, Communication and Arts.
 
         - layout: top-left  
           title: Universidade Federal de Campina Grande (UFCG)
@@ -120,6 +127,7 @@
           quote: >
             
           description: | # this will include new lines to allow paragraphs
+          I've obtained a Bachelor's Degree in Arts and Media.
           
     #- title: A Little More About Me
     #  layout: text

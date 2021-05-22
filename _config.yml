@@ -19,14 +19,14 @@ website: www.leosaraiva.net
 darkmode: true
 
 # Social links
-twitter_username: leosaraiv4
+twitter_username: 
 github_username:  leosaraiva
 stackoverflow_username: 
 dribbble_username: 
 facebook_username: 
 flickr_username: 
-instagram_username: leosaraiv4
-linkedin_username: leosaraiv4
+instagram_username: 
+linkedin_username: leosaraiva
 xing_username: 
 pinterest_username: 
 youtube_username: 
@@ -34,10 +34,10 @@ googleplus_username:
 orcid_username: 
 
 # Additional icon links
-additional_links:
-- title: 
-  icon: 
-  url: 
+#additional_links:
+#- title: 
+#  icon: 
+#  url: 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,13 +52,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, there! I'm Leo Saraiva, Junior Programmer. I'm passionate about technology and I'm looking forward for opportunities to showcase my skills.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Currently, I'm studying Internet Systems at Uniesp.
 
 content:
   - title: Projects # Title for the section
@@ -101,22 +97,21 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          Recieved a Master's Degree title
-    content:
-      - layout: top-right
+          Obtained a Master's Degree title
+    
         title: Universidade Federal de Campina Grande (UFCG)
         sub_title: B.Sc in Arts and Media
         caption: (1999 - 2003)
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-          Recieved a Bacherlor's Degree title
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+          Obtained a Bachelor's Degree title
+  #- title: A Little More About Me
+  #  layout: text
+  #  content: | # this will include new lines to allow paragraphs
+  #    This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  #    Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true

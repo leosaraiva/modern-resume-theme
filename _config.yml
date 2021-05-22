@@ -105,7 +105,7 @@
           description: | # this will include new lines to allow paragraphs
             Obtained a Master's Degree title
 
-      content:
+     # content:
         - layout: top-right  
           title: Universidade Federal de Campina Grande (UFCG)
           sub_title: B.A in Arts and Media

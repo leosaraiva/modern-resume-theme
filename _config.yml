@@ -1,146 +1,146 @@
-# Site
-repository: leosaraiva/modern-resume-theme/
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+  # Site
+  repository: leosaraiva/modern-resume-theme/
+  # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
-# Content configuration version
-version: 2
+  # Content configuration version
+  version: 2
 
-# Personal info
-name: Leo Saraiva
-title: Junior Programmer
-email: leo@leosaraiva.net
-# email_title: Email (Email title override)
-phone: +55 83 98125-1736
-# phone_title: Phone (Phone title override)
-website: www.leosaraiva.net
-# website_title: Web (Website title override)
+  # Personal info
+  name: Leo Saraiva
+  title: Junior Programmer
+  email: leo@leosaraiva.net
+  # email_title: Email (Email title override)
+  phone: +55 83 98125-1736
+  # phone_title: Phone (Phone title override)
+  website: www.leosaraiva.net
+  # website_title: Web (Website title override)
 
-# Dark Mode (true/false/never)
-darkmode: true
+  # Dark Mode (true/false/never)
+  darkmode: true
 
-# Social links
-twitter_username: 
-github_username:  leosaraiva
-stackoverflow_username: 
-dribbble_username: 
-facebook_username: 
-flickr_username: 
-instagram_username: 
-linkedin_username: leosaraiva
-xing_username: 
-pinterest_username: 
-youtube_username: 
-googleplus_username: 
-orcid_username: 
+  # Social links
+  twitter_username: 
+  github_username:  leosaraiva
+  stackoverflow_username: 
+  dribbble_username: 
+  facebook_username: 
+  flickr_username: 
+  instagram_username: 
+  linkedin_username: leosaraiva
+  xing_username: 
+  pinterest_username: 
+  youtube_username: 
+  googleplus_username: 
+  orcid_username: 
 
-# Additional icon links
-#additional_links:
-#- title: 
-#  icon: 
-#  url: 
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+  # Additional icon links
+  #additional_links:
+  #- title: 
+  #  icon: 
+  #  url: 
+  # - title: another link
+  #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  #   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+  # Google Analytics and Tag Manager
+  # Using more than one of these may cause issues with reporting
+  # gtm: "GTM-0000000"
+  # gtag: "UA-00000000-0"
+  # google_analytics: "UA-00000000-0"
 
-# About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpeg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, there! :wave: I'm Leo Saraiva, Junior Programmer. 
-  
-  I'm passionate about technology and I'm looking forward for opportunities to showcase my skills.
+  # About Section
+  # about_title: About Me (Use this to override about section title)
+  about_profile_image: images/profile.jpeg
+  about_content: | # this will include new lines to allow paragraphs
+    Hi, there! :wave: I'm Leo Saraiva, Junior Programmer. 
+    
+    I'm passionate about technology and I'm looking forward for opportunities to showcase my skills.
 
-  Currently, I'm studying Internet Systems at Uniesp.
+    Currently, I'm studying Internet Systems at Uniesp.
 
-  My favorite programming languages are Java and Python.
+    My favorite programming languages are Java and Python.
 
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Universidade Federal da Paraíba (UFPB)
-        sub_title: M.Sc in Computing, Communication and Arts
-        caption: (2019 - 2021)
-        quote: >
+  content:
+    - title: Projects # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: left
+          title: Project name
+          link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          link_text: Link Text
+          additional_links:
+            - title:  Github page for project (eg. sproogen/modern-resume-theme)
+              icon: fab fa-github
+              url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            - title:  Github page for project (eg. sproogen/modern-resume-theme)
+              icon: fab fa-github
+              url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          quote: >
+            Short overview of the project (optional)
+          description: | # this will include new lines to allow paragraphs
+            Description about the work on/with the project
+    - title: Experience
+      layout: list
+      content:
+        - layout: right
+          title: Company name
+          sub_title: Job title
+          caption: Date Range (eg. November 2016 - present)
+          link: Link to company (optional)
+          quote: >
+            Short description of the company (optional)
+          description: | # this will include new lines to allow paragraphs
+            Description of role
+    - title: Education
+      layout: list
+      content:
+        - layout: top-right
+          title: Universidade Federal da Paraíba (UFPB)
+          sub_title: M.Sc in Computing, Communication and Arts
+          caption: (2019 - 2021)
+          quote: >
 
-        description: | # this will include new lines to allow paragraphs
-          Obtained a Master's Degree title
-      - layout: top-right
-        title: Universidade Federal de Campina Grande (UFCG)
-        sub_title: B.Sc in Arts and Media
-        caption: (1999 - 2003)
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-          Obtained a Bachelor's Degree title
-  #- title: A Little More About Me
-  #  layout: text
-  #  content: | # this will include new lines to allow paragraphs
-  #    This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+          description: | # this will include new lines to allow paragraphs
+            Obtained a Master's Degree title
+        #- layout: top-right
+          title: Universidade Federal de Campina Grande (UFCG)
+          sub_title: B.Sc in Arts and Media
+          caption: (1999 - 2003)
+          quote: >
+            
+          description: | # this will include new lines to allow paragraphs
+            Obtained a Bachelor's Degree title
+    #- title: A Little More About Me
+    #  layout: text
+    #  content: | # this will include new lines to allow paragraphs
+    #    This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-  #    Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+    #    Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
-# Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
+  # Footer
+  footer_show_references: true
+  # references_title: References on request (Override references text)
 
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
- remote_theme: sproogen/modern-resume-theme 
+  # Build settings
+  # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+  remote_theme: sproogen/modern-resume-theme 
 
-sass:
-  sass_dir: _sass
-  style: compressed
+  sass:
+    sass_dir: _sass
+    style: compressed
 
-plugins:
- - jekyll-seo-tag
+  plugins:
+  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+  exclude : [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+    "lib/",
+    "scripts/",
+    "docker-compose.yml",
+    ]

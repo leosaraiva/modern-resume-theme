@@ -52,7 +52,9 @@
   # about_title: About Me (Use this to override about section title)
   about_profile_image: images/profile.jpeg
   about_content: | # this will include new lines to allow paragraphs
-    Hi, there! 👋 I'm Leo Saraiva, Junior Programmer. 
+    Hello, there! 👋 
+    
+    I'm Leo Saraiva, Junior Programmer. 
     
     I'm passionate about technology and I'm looking forward for opportunities to showcase my skills.
 
@@ -102,9 +104,9 @@
 
           description: | # this will include new lines to allow paragraphs
             Obtained a Master's Degree title
-        #- layout: top-right
 
-        
+      content:
+        - layout: top-right  
           title: Universidade Federal de Campina Grande (UFCG)
           sub_title: B.A in Arts and Media
           caption: (1999 - 2003)

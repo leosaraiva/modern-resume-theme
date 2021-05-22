@@ -60,7 +60,7 @@
 
     Currently, I'm studying Internet Systems at Uniesp.
 
-    My favorite programming languages are Java and Python.
+    My favorite programming languages are <mark>Java</mark> and <mark>Python</mark>.
 
   content:
     - title: Projects # Title for the section
@@ -84,19 +84,28 @@
     - title: Experience
       layout: list
       content:
-        - layout: right
+        - layout: left
           title: Yázigi 
           sub_title: ESL Teacher
           caption: August 2017 - present
           link: 
           quote: >
-            Short description of the company (optional)
+            
           description: | # this will include new lines to allow paragraphs
             English as a second language teacher. From beginners to advanced learners.
+        - layout: left
+          title: Sin Group 
+          sub_title: RTVC
+          caption: 2012 - 2015
+          link: https://singroup.com.br/
+          quote: >
+            
+          description: | # this will include new lines to allow paragraphs
+            Audiovisual Producer for both films and radio spots. 
     - title: Education
       layout: list
       content:
-        - layout: top-right
+        - layout: top-left
           title: Universidade Federal da Paraíba (UFPB)
           sub_title: M.Sc in Computing, Communication and Arts
           caption: (2019 - 2021)
@@ -104,7 +113,7 @@
 
           description: | # this will include new lines to allow paragraphs
 
-        - layout: top-right  
+        - layout: top-left  
           title: Universidade Federal de Campina Grande (UFCG)
           sub_title: B.A in Arts and Media
           caption: (1999 - 2003)

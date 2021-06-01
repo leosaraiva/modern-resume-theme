@@ -93,9 +93,18 @@
       layout: list
       content:
         - layout: left
+          title: Indra Company 
+          sub_title: System's Analyst
+          caption: June 2021 - present
+          link: 
+          quote: >
+            
+          description: | # this will include new lines to allow paragraphs
+            System's analyst working with Salesforce's platform.
+        - layout: left
           title: Yázigi 
           sub_title: ESL Teacher
-          caption: August 2017 - present
+          caption: August 2017 - May 2021
           link: 
           quote: >
             

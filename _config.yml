@@ -121,6 +121,15 @@
       layout: list
       content:
         - layout: top-left
+          title: Uniesp - Centro Universitário
+          sub_title: Internet Systems
+          caption: (2020 - present)
+          quote: >
+
+          description: | # this will include new lines to allow paragraphs
+            I'm currently studying to be better at my job.
+
+        - layout: top-left
           title: Universidade Federal da Paraíba (UFPB)
           sub_title: M.Sc in Computing, Communication and Arts
           caption: (2019 - present)

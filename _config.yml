@@ -54,23 +54,21 @@
   about_content: | # this will include new lines to allow paragraphs
     Hello, there! 👋 
     
-    I'm Leo Saraiva, Junior Programmer. 
+    I'm Leo Saraiva, Salesforce Developer. 
     
-    I'm passionate about technology and I'm looking forward to opportunities to showcase my skills.
+    I'm passionate about technology and I've been coding in Salesforce since May 2021.
 
-    Currently, I'm studying Internet Systems at Uniesp.
-
-    My favorite programming languages are <mark>Java</mark> and <mark>Python</mark>.
+    My favorite programming languages are <mark>Apex</mark> and <mark>LWC</mark>.
 
   content:
-    - title: Projects # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-        - layout: left
-          title: K9 Organizer
-          link: github.com/leosaraiva/organizarCachorro
-          link_text: Github
-          icon: fab fa-github
+    #- title: Projects # Title for the section
+    #  layout: list # Type of content section (list/text)
+    #  content:
+    #    - layout: left
+    #      title: K9 Organizer
+    #      link: github.com/leosaraiva/organizarCachorro
+    #      link_text: Github
+    #      icon: fab fa-github
         #  additional_links:
         #    - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #      icon: fab fa-github
@@ -80,27 +78,27 @@
         #      url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #  quote: >
             
-          description: | # this will include new lines to allow paragraphs
-            A <mark>Java</mark> project to include, list, play, exclude and mate dogs in a kennel club.
-        - layout: left
-          title: Parking Queue
-          link: github.com/leosaraiva/filaEstacionamento
-          link_text: Github
-          icon: fab fa-github
-          description: | # this will include new lines to allow paragraphs
-            A <mark>Python</mark> project to organize a queue in a parking lot.
+    #      description: | # this will include new lines to allow paragraphs
+    #        A <mark>Java</mark> project to include, list, play, exclude and mate dogs in a kennel club.
+    #    - layout: left
+    #      title: Parking Queue
+    #      link: github.com/leosaraiva/filaEstacionamento
+    #      link_text: Github
+    #      icon: fab fa-github
+    #      description: | # this will include new lines to allow paragraphs
+    #       A <mark>Python</mark> project to organize a queue in a parking lot.
     - title: Experience
       layout: list
       content:
         - layout: left
-          title: Indra Company 
-          sub_title: System's Analyst
+          title: Minsait, an Indra Company 
+          sub_title: Salesforce Developer
           caption: June 2021 - present
           link: 
           quote: >
             
           description: | # this will include new lines to allow paragraphs
-            System's analyst working with Salesforce's platform.
+            System's analyst working as a Salesforce Developer.
         - layout: left
           title: Yázigi 
           sub_title: ESL Teacher
@@ -125,11 +123,11 @@
         - layout: top-left
           title: Universidade Federal da Paraíba (UFPB)
           sub_title: M.Sc in Computing, Communication and Arts
-          caption: (2019 - 2021)
+          caption: (2019 - present)
           quote: >
 
           description: | # this will include new lines to allow paragraphs
-            I've obtained a Master's Degree in Computing, Communication and Arts.
+            I'm pursuing a Master's Degree in Computing, Communication and Arts.
 
         - layout: top-left  
           title: Universidade Federal de Campina Grande (UFCG)

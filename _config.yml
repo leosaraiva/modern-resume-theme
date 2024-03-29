@@ -56,7 +56,7 @@
     
     I'm Leo Saraiva, Salesforce Developer. 
     
-    I'm passionate about technology and I've been coding in Salesforce since May 2021.
+    I'm passionate about technology and I've been within the Salesforce Ecosystem since 2021.
 
     My favorite programming languages are <mark>Apex</mark> and <mark>LWC</mark>.
 
@@ -91,52 +91,34 @@
       layout: list
       content:
         - layout: left
+          title: Pagar.me / Stone Co
+          sub_title: Salesforce Developer
+          caption: 2023 - present
+          link: 
+          quote: >
+            
+          description: | # this will include new lines to allow paragraphs
+            Full time Salesforce Developer, working on Sales and Service Clouds.
+        - layout: left
           title: Minsait, an Indra Company 
           sub_title: Salesforce Developer
-          caption: June 2021 - present
+          caption: 2021 - 2023
           link: 
           quote: >
             
           description: | # this will include new lines to allow paragraphs
-            System's analyst working as a Salesforce Developer.
-        - layout: left
-          title: Yázigi 
-          sub_title: ESL Teacher
-          caption: August 2017 - May 2021
-          link: 
-          quote: >
-            
-          description: | # this will include new lines to allow paragraphs
-            English as a second language teacher. From beginners to advanced learners.
-        - layout: left
-          title: Sin Group 
-          sub_title: RTVC
-          caption: 2012 - 2015
-          link: singroup.com.br
-          quote: >
-            
-          description: | # this will include new lines to allow paragraphs
-            Audiovisual Producer for both films and radio spots. 
+            Junior Salesforce Developer, working on .
     - title: Education
       layout: list
       content:
         - layout: top-left
           title: Uniesp - Centro Universitário
           sub_title: Internet Systems
-          caption: (2020 - present)
+          caption: (2020 - 2023)
           quote: >
 
           description: | # this will include new lines to allow paragraphs
-            I'm currently studying to be better at my job.
-
-        - layout: top-left
-          title: Universidade Federal da Paraíba (UFPB)
-          sub_title: M.Sc in Computing, Communication and Arts
-          caption: (2019 - present)
-          quote: >
-
-          description: | # this will include new lines to allow paragraphs
-            I'm pursuing a Master's Degree in Computing, Communication and Arts.
+            I have graduated as full stack developer.
 
         - layout: top-left  
           title: Universidade Federal de Campina Grande (UFCG)
@@ -147,10 +129,11 @@
           description: | # this will include new lines to allow paragraphs
             I've obtained a Bachelor's Degree in Arts and Media.
           
-    #- title: A Little More About Me
-    #  layout: text
-    #  content: | # this will include new lines to allow paragraphs
+    - title: Interests
+      layout: text
+      content: | # this will include new lines to allow paragraphs
     #    This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+          <p>I love <a href="https://www.leosaraiva.net/photo" target="_blank" rel="noopener noreferrer">photography</a> and  <a href="https://www.instagram.com/saraivareef" target="_blank" rel="noopener noreferrer">reef keeping</a>.</p>.
 
     #    Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 

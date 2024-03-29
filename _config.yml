@@ -133,6 +133,9 @@
       layout: text
       content: | # this will include new lines to allow paragraphs
         <p>I really love <a href="https://www.leosaraiva.net/photo" target="_blank" rel="noopener noreferrer">photography</a> and <a href="https://www.instagram.com/saraivareef" target="_blank" rel="noopener noreferrer">reef keeping</a>.</p>
+         
+         
+      #    Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
      
   # Footer
   footer_show_references: true

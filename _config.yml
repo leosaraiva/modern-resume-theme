@@ -129,11 +129,11 @@
           description: | # this will include new lines to allow paragraphs
             I've obtained a Bachelor's Degree in Arts and Media.
           
-    - title: Interests
-      layout: text
-      content: | # this will include new lines to allow paragraphs
+    #- title: Interests
+    #  layout: text
+    #  content: | # this will include new lines to allow paragraphs
     #    This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-          <p>I love <a href="https://www.leosaraiva.net/photo" target="_blank" rel="noopener noreferrer">photography</a> and  <a href="https://www.instagram.com/saraivareef" target="_blank" rel="noopener noreferrer">reef keeping</a>.</p>.
+     #     <p>I love <a href="https://www.leosaraiva.net/photo" target="_blank" rel="noopener noreferrer">photography</a> and  <a href="https://www.instagram.com/saraivareef" target="_blank" rel="noopener noreferrer">reef keeping</a>.</p>.
 
     #    Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 

@@ -12,7 +12,7 @@
   # email_title: Email (Email title override)
   phone: +55 83 98125-1736
   # phone_title: Phone (Phone title override)
-  website: leosaraiva.net
+  website: dev.leosaraiva.net
   # website_title: Web (Website title override)
 
   # Dark Mode (true/false/never)
@@ -132,7 +132,7 @@
     - title: Interests
       layout: text
       content: | # this will include new lines to allow paragraphs
-        <p>I really love <a href="https://www.leosaraiva.net/photo" target="_blank" rel="noopener noreferrer">photography</a> and <a href="https://www.instagram.com/saraivareef" target="_blank" rel="noopener noreferrer">reef keeping</a>.</p>
+        <p>I really love <a href="https://leosaraiva.net" target="_blank" rel="noopener noreferrer">photography</a> and <a href="https://www.instagram.com/saraivareef" target="_blank" rel="noopener noreferrer">reef keeping</a>.</p>
          
          
       #    Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
